@@ -1,0 +1,10 @@
+.social-icon {
+    color: #ffffff; /* Default color */
+    transition: color 0.3s ease; /* Smooth transition for color change */
+  }
+  
+  .social-icon:hover {
+    color: #0aff9d; /* Color change on hover */
+    background-color: #0aff9d;
+  }
+  

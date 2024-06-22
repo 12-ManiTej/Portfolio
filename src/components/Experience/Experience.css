@@ -1,0 +1,83 @@
+/* Example adjustments in Experience.css */
+.experience-section {
+  padding: 50px 0;
+  background-color: #12071f;
+  color: #ffffff;
+  text-align: center;
+}
+
+.experience-heading {
+  font-weight: 900;
+  font-size: 3rem;
+}
+
+.experience-timeline {
+  position: relative;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.experience-timeline-line {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 4px;
+  height: 100%;
+  background: #0aff9d;
+  transform: translateX(-50%);
+}
+
+.experience-timeline-item {
+  position: relative;
+  width: 50%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.experience-timeline-item.left {
+  left: 0;
+  text-align: right;
+}
+
+.experience-timeline-item.right {
+  left: 50%;
+  text-align: left;
+}
+
+.experience-content {
+  background: #1f1b2e;
+  padding: 15px;
+  border-radius: 8px;
+  border: 2px solid #0aff9d;
+}
+
+.experience-content h3 {
+  margin-top: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .experience-timeline-item {
+    width: 100%;
+    padding: 10px;
+  }
+
+  .experience-timeline-item.left,
+  .experience-timeline-item.right {
+    left: 0;
+    text-align: center;
+  }
+
+  .experience-timeline-line {
+    left: 0;
+    transform: none;
+    width: 100%;
+    height: 4px;
+    top: 50%;
+  }
+}
+
+.salesforce_content,.interniq_content{
+  line-height: 1.8rem;
+ font-size: 15px;
+ font-style:unset;
+}

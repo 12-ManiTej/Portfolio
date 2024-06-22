@@ -1,0 +1,44 @@
+#projects {
+  padding: 50px 0;
+  background-color: #12071f;
+  color: #fff;
+}
+
+.projects__heading {
+  font-weight: 900; /* Setting the font weight to 900 for the Projects heading */
+  text-align: center; /* Optional: Center align the heading */
+  font-size: 3rem;
+}
+
+.filter-button {
+  background-color: #1a1a1d;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin-right: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.filter-button.active {
+  background-color: #0aff9d;
+}
+
+.project-card {
+  background-color: #1a1a1d;
+  padding: 20px;
+  border-radius: 10px;
+  height: 100%;
+  transition: background-color 0.3s ease;
+  width: 100%; /* Ensure the card takes up full width */
+  max-width: 400px; /* Limit the max-width of the card for better spacing */
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Add a subtle shadow for depth */
+}
+
+.project-card:hover {
+  background-color: #3c3c3e;
+}
+
+.dot{
+  color: #0aff9d;
+}

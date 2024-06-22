@@ -1,0 +1,25 @@
+.custom-card {
+  background-color: #1a1a1d; /* Same as project-card to ensure consistency */
+  color: #fff;
+  border: none; /* Remove any border that might cause blue outline */
+  transition: background-color 0.3s ease;
+}
+
+.custom-card:hover {
+  background-color: #3c3c3e;
+}
+
+.custom-card img {
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+}
+
+.card-button {
+  background-color: #3c3c3e; /* Match button background to card */
+  color: #fff;
+  border: none;
+}
+
+.card-button:hover {
+  background-color: #5a5a5e; /* Slightly lighter on hover */
+}
