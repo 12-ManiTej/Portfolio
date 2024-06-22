@@ -60,11 +60,11 @@ const projects = [
   },
   {
     id: 6,
-    title: "SHOULD UPDATE Portfolio GITHUB LINK",
+    title: "Portfolio",
     description: "Explore this React portfolio showcasing skills, projects, and professional journey. Discover diverse technologies and frameworks through practical project examples. Feel free to reach out for more information or collaborations.",
     imageUrl: portfolio,
     category: "web",
-    link:"https://github.com/12-ManiTej/Propredict/tree/master"
+    link:"https://github.com/12-ManiTej/Portfolio"
   },
   {
     id: 7,
