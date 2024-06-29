@@ -184,7 +184,7 @@ function Projects() {
             }`}
             onClick={() => setFilter("ML")}
           >
-            Machine Learning
+            ML
           </Button>
           <Button
             variant="outline-light"
@@ -193,7 +193,7 @@ function Projects() {
             }`}
             onClick={() => setFilter("AI")}
           >
-            Artificial Intelligence
+           AI
           </Button>
           {/* Add more filter buttons as needed */}
         </div>
