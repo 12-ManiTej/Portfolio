@@ -89,13 +89,13 @@ export default function Header() {
         <CTA />
       </div>
       <HeaderSocials />
-      <a
+{/*       <a
         href="#contact" // Update this to the target section's ID
         onClick={handleScroll}
         className="scroll__down"
       >
         Scroll Down
-      </a>
+      </a> */}
       <div className="custom-shape-divider-bottom-1718619451">
         <svg
           data-name="Layer 1"
