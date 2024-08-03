@@ -106,6 +106,10 @@ return (
           <BsFillPatchCheckFill className="experience__details-icon" />
           <h4>Deep Learning</h4>
         </article>
+        <article className="experience__details">
+          <BsFillPatchCheckFill className="experience__details-icon" />
+          <h4>NLP</h4>
+        </article>
         
       </div>
     </div>
