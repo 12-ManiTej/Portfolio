@@ -29,7 +29,7 @@ function About() {
             </Col>
             <Col md={6} className="about-content">
               <p>
-                I am a third-year Information Technology undergraduate at Chaitanya Bharathi Institute of Technology. My passion lies in developing applications that create meaningful impact in the real world.
+                I am a fourth-year Information Technology undergraduate at Chaitanya Bharathi Institute of Technology. My passion lies in developing applications that create meaningful impact in the real world.
               </p>
               <p>
                 I am a highly motivated and detail-oriented individual with a robust foundation in programming languages such as C, Java, and Python. Proficient in software development methodologies like Agile, I also have hands-on experience in frontend developmental tools. My expertise lies in MERN stack development, along with proficiency in Django.
