@@ -35,7 +35,7 @@ function About() {
                 I am a highly motivated and detail-oriented individual with a robust foundation in programming languages such as C, Java, and Python. Proficient in software development methodologies like Agile, I also have hands-on experience in frontend developmental tools. My expertise lies in MERN stack development, along with proficiency in Django.
               </p>
               <p>
-                In addition to my programming skills, I excel in machine learning and deep learning, utilizing frameworks like scikit-learn and TensorFlow. With expertise in natural language processing, I craft intelligent solutions adept at understanding human language patterns. Moreover, I am proficient in cloud computing, boasting hands-on experience with Google Cloud Computing and Amazon Web Services (AWS). Furthermore, I possess a strong understanding of different types of networks, enhancing my ability to tackle diverse challenges efficiently.
+                In addition to my programming skills, I excel in machine learning and deep learning, utilizing frameworks like scikit-learn and TensorFlow. With expertise in natural language processing, I craft intelligent solutions adept at understanding human language patterns. Moreover, I am proficient in cloud computing, boasting hands-on experience with Amazon Web Services (AWS). Furthermore, I possess a strong understanding of different types of networks, enhancing my ability to tackle diverse challenges efficiently.
               </p>
             </Col>
           </Row>
