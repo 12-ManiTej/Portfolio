@@ -16,6 +16,8 @@ import water from '../assets/images/pexels-pixabay-40784.jpg';
 import dehaze from '../assets/images/pexels-yunustug-7957992.jpg';
 import gemini from '../assets/images/chatbot.png';
 import IT from '../assets/images/pexels-divinetechygirl-1181673.jpg';
+import healthcare from '../assets/images/ahmed-raza-kz-XnUW7YpNuG8-unsplash.jpg';
+
 
 const projects = [
   {
