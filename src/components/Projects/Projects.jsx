@@ -129,6 +129,14 @@ const projects = [
     imageUrl: IT,
     category: "web",
     link:"https://github.com/12-ManiTej/IT-web"
+  },
+  {
+    id: 15,
+    title: "HealthCare",
+    description: "Developed a healthcare mobile app using React Native, MongoDB, and Amazon Lex, featuring video consultations, an AI-powered chatbot for health assistance, appointment booking, and user activity tracking for personalized insights. The app leverages Generative AI for intelligent responses and seamless interaction. Designed to enhance accessibility, it provides a comprehensive solution for modern healthcare needs.",
+    imageUrl: IT,
+    category: "AI",
+    link:"https://github.com/12-ManiTej/Eureka-Mental-Health-Care-App"
   }
   // Add more projects as needed
 ];
